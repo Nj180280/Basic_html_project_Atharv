@@ -1,0 +1,43 @@
+body{
+    background-color: beige;
+text-align: left;
+font: 10px;
+    }
+  
+    h1 {
+        color: blue ;
+        text-align: center;
+        font-size: 50px ;
+    }
+    h2{
+    color: darkgreen ;  
+    }
+
+    img{
+        border-radius: 25px 55px 25px 55px;
+    }
+    .Paris-City-Img{
+    width: 400px ;
+    height: 200px;
+    transition: transform 0.5s ease-in-out;
+    }
+.Paris-City-Img:hover{
+    transform: scale(1.2);
+}
+.Chennai-City-Img{
+    width: 400px ;
+    height: 200px;
+    transition: transform 0.5s ease-in-out;
+    }
+.Chennai-City-Img:hover{
+    transform: scale(1.2);
+}
+.New-York-City-Img{
+    width: 400px ;
+    height: 200px;
+    transition: transform 0.5s ease-in-out;
+    }
+.New-York-City-Img:hover{
+    transform: scale(1.2);
+}
+    
